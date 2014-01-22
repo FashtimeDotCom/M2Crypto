@@ -1,10 +1,10 @@
-=========
- M2Crypto
+M2Crypto
 =========
 
-:Maintainer: Heikki Toivonen
-:Web-Site: http://chandlerproject.org/Projects/MeTooCrypto
-
+ * Maintainer: Martin Paljak
+ * URL: https://github.com/martinpaljak/M2Crypto
+ * Temporary wiki: https://github.com/martinpaljak/M2Crypto/wiki/NextSteps
+ * If you have problems, file an issue. Better yet, send a pull request!
 
 M2Crypto = Python + OpenSSL + SWIG
 ------------------------------------
